@@ -158,4 +158,4 @@ def predict_image(image_path):
 <img width="818" height="636" alt="image" src="https://github.com/user-attachments/assets/cb275b09-7b80-4eb1-be64-c6c7054bcb2a" />
 
 # Result:
-Hence the program is completed.
+Hence the program is successfully implemented.
